@@ -1,0 +1,119 @@
+[
+  {
+    "id": "1",
+    "product_name": "Apple iPhone 14 Pro",
+    "image": "https://www.techspot.com/images/products/2022/smartphones/org/2022-09-14-product-11.jpg",
+    "price": "BDT130000",
+    "details": "The Apple iPhone 14 Pro features a 48MP camera, A16 Bionic chip, and a sleek, premium design with Dynamic Island.",
+    "type": "Phone",
+    "rating": "4.8",
+    "specifications": {
+      "processor": "A16 Bionic",
+      "ram": "6GB",
+      "rom": "128GB",
+      "battery": "3200mAh",
+      "display": "6.1-inch OLED"
+    }
+  },
+  {
+    "id": "1.7",
+    "product_name": "Takara Tomy WBBA Red Diablo Nemesis X:D Dragren",
+    "image": "https://www.example.com/images/red-diablo-nemesis.jpg",
+    "price": "BDT120000",
+    "details": "A rare and collectible Beyblade, with only 100 units produced. This Beyblade features a balance type and is highly prized by collectors.",
+    "type": "Beyblade",
+    "rating": "5.0",
+    "specifications": {
+      "beyblade_type": "Balance",
+      "design_year": "2012",
+      "interesting_fact": "Only 100 units were produced"
+    }
+  },
+
+  {
+    "id": "2",
+    "product_name": "Samsung Galaxy S22 Ultra",
+    "image": "https://th.bing.com/th/id/R.5f027cf3d85bacc89eea2038e76022be?rik=AQfCO2%2fce%2b5g8Q&pid=ImgRaw&r=0",
+    "price": "BDT120000",
+    "details": "The Galaxy S22 Ultra features a 108MP camera, Snapdragon 8 Gen 1 chipset, and a stunning 6.8-inch QHD+ AMOLED display.",
+    "type": "Phone",
+    "rating": "4.7",
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 1",
+      "ram": "12GB",
+      "rom": "128GB",
+      "battery": "5000mAh",
+      "display": "6.8-inch QHD+ AMOLED"
+    }
+  },
+  {
+    "id": "3",
+    "product_name": "Dell XPS 13",
+    "image": "https://th.bing.com/th/id/OIP.0jhL2o_M2IP5-M9DowQT5wHaFj?rs=1&pid=ImgDetMain",
+    "price": "BDT145000",
+    "details": "The Dell XPS 13 laptop features an Intel Core i7 processor, a 13.4-inch 4K touch display, and long-lasting battery life.",
+    "type": "Laptop",
+    "rating": "4.6",
+    "specifications": {
+      "processor": "Intel Core i7-1165G7",
+      "ram": "16GB",
+      "rom": "512GB SSD",
+      "storage": "512GB SSD",
+      "display": "13.4-inch 4K"
+    }
+  },
+  {
+    "id": "4",
+    "product_name": "HP Spectre x360",
+    "image": "https://th.bing.com/th/id/OIP.zIygMCpiaV7Gs_wwe8fPdgHaHa?w=1500&h=1500&rs=1&pid=ImgDetMain",
+    "price": "BDT135000",
+    "details": "HP Spectre x360 features a sleek design, Intel i7, 16GB RAM, and up to 1TB SSD for ultimate performance.",
+    "type": "Laptop",
+    "rating": "4.5",
+    "specifications": {
+      "processor": "Intel Core i7-1165G7",
+      "ram": "16GB",
+      "rom": "1TB SSD",
+      "storage": "1TB SSD",
+      "display": "13.3-inch FHD"
+    }
+  },
+  {
+    "id": "5",
+    "product_name": "Sony WH-1000XM5",
+    "image": "https://th.bing.com/th/id/OIP.hWzOZprY7vNwe0s6ywiNXgHaHa?w=1024&h=1024&rs=1&pid=ImgDetMain",
+    "price": "BDT25000",
+    "details": "Sony WH-1000XM5 headphones offer superior noise-cancellation, incredible sound quality, and a comfortable fit.",
+    "type": "Headphone",
+    "rating": "4.9",
+    "specifications": {
+      "battery": "30 hours",
+      "noise_cancelling": "Yes",
+      "bluetooth": "Yes",
+      "charging": "USB-C"
+    }
+  },
+  {
+    "id": "6",
+    "product_name": "Bose QuietComfort 45",
+    "image": "https://th.bing.com/th/id/R.442cc9ba29b62ebe46f285dc96508570?rik=l84gjA%2fQ7Oc%2b5A&pid=ImgRaw&r=0",
+
+    "price": "BDT27000",
+
+    "details": "The Bose QuietComfort 45 features world-class noise cancellation, amazing sound quality, and a comfortable design.",
+
+    "type": "Headphone",
+
+    "rating": "4.8",
+
+    "specifications": {
+      "battery": "24 hours",
+
+      "noise_cancelling": "Yes",
+
+      "bluetooth": "Yes",
+
+      "charging": "USB-C"
+    }
+  }
+]
